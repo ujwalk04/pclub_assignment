@@ -39,15 +39,15 @@ The code implemented in training the models are in the notebooks .
 Note: I trained the models for 50000 epochs . The following plots depict the cost after 10000 epochs , i.e. these plots do not show the value of cost function for the first 10000 epochs . For complete loss plot refer to the notebooks in this repo . 
 
 #### (a.) Linear Regression with |x -  x̂|³ 
-![a](./assets/a_cost.png)
+![a](./assets/a_cost1.png) ![a](./assets/a_cost.png)
 
 #### (b.) Linear Regression with |x -  x̂|
-![b](./assets/b_cost.png)
+![b](./assets/b_cost1.png) ![b](./assets/b_cost.png)
 
 #### (c.) Polynomial Regression with |x -  x̂|⁴
-![c](./assets/c_cost.png)
+![c](./assets/c_cost1.png) ![c](./assets/c_cost.png)
 
 #### (d.) Polynomial Regression with |x -  x̂|⁷
-![d](./assets/d_cost.png)
+![d](./assets/d_cost1.png) ![d](./assets/d_cost.png)
 
 ***
