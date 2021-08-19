@@ -36,7 +36,7 @@ The code implemented in training the models are in the notebooks .
 
 ### Loss Plots
 
-Note: I trained the models for 50000 epochs . The following plots depict the cost after 10000 epochs , i.e. these plots do not show the value of cost function for the first 10000 epochs . For complete loss plot refer to the notebooks in this repo . 
+Note : All the models are trained for 50000 epochs . The plot in the left side depicts plot for 50000 epochs , whereas , on the right side , the plot shows the cost for last 40000 epochs.
 
 #### (a.) Linear Regression with |x -  x̂|³ 
 ![a](./assets/a_cost1.png) ![a](./assets/a_cost.png)
