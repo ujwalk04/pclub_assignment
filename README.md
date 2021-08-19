@@ -42,7 +42,7 @@ Note : All the models are trained for 50000 epochs . The plot in the left side d
 ![a](./assets/a_cost1.png) ![a](./assets/a_cost.png)
 
 #### (b.) Linear Regression with |x -  x̂|
-![b](./assets/b_cost1.png) ![b](./assets/b_cost.png)
+![b](./assets/b_cost.png) ![b](./assets/b_cost1.png)
 
 #### (c.) Polynomial Regression with |x -  x̂|⁴
 ![c](./assets/c_cost1.png) ![c](./assets/c_cost.png)
